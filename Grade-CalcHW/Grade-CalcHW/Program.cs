@@ -7,7 +7,7 @@
             string studentName;
 
             studentName = "Tommy";
-            Console.WriteLine("Hello, " + studentName);
+            Console.WriteLine("Hello, " + studentName + "!");
         }
     }
 }
